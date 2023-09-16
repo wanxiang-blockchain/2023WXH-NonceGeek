@@ -26,4 +26,4 @@ Demo of AI Scaffold:
 
 - [x] [Deck](deck.pdf)
 
-- [ ] Demo Video
+- [x] [Demo Video](demo.mp4): https://youtu.be/WtmfYfxwXzU
