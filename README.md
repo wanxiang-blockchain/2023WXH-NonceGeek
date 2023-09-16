@@ -16,14 +16,14 @@ Demo of AI Scaffold:
 
 ## 仓库目录
 
-[x] 数据引擎`movespace_db`
+- [x] 数据引擎`movespace_db`
 
-[x] 智能合约 Copilot `ai_scaffold`
+- [x] 智能合约 Copilot `ai_scaffold`
 
-[x] 公共向量数据库治理合约 `vector_dataset_governancer`
+- [x] 公共向量数据库治理合约 `vector_dataset_governancer`
 
-[x] 公共向量数据库治理dApp `vector_dataset_governancer_dapp`
+- [x] 公共向量数据库治理dApp `vector_dataset_governancer_dapp`
 
-[x] [Deck](deck.pdf)
+- [x] [Deck](deck.pdf)
 
-[ ] Demo Video
+- [ ] Demo Video
