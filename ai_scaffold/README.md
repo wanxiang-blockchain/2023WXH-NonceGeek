@@ -1,4 +1,4 @@
-# scaffold-aptos-based-on-AI
+# AI Scaffold
 AI-based Aptos smart contract and dApp scaffolding, empowering developers to rapidly develop and learn.
 
 > Online MVP:
